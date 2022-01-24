@@ -1,6 +1,6 @@
 
 
-[GET THE LATEST RELEASE FOR YOUR GITHUB PROJECTS](github-latest-release.vercel.app/)
+[GET THE LATEST RELEASE FOR YOUR GITHUB PROJECTS](https://github-latest-release.vercel.app/)
 
 Usage:
 ```
