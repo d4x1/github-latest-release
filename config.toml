@@ -1,0 +1,17 @@
+baseURL = 'https://github-latest-release.vercel.app'
+languageCode = 'en-us'
+title = 'Get Github Latest Release'
+theme = "hugo-xmin"
+
+#[[menu.main]]             # config your menu              # 配置目录
+#    name = "Home"
+#    weight = 1
+#    url = ""
+
+[params]
+    ShowDatesOnPosts = false
+    description = "a simple tool"
+    footer = "&copy; [lynwee](https://lynwee.vercel.app/) 2022 -- {Year} | [Github](https://github.com/d4x1) | [Twitter](https://twitter.com/lynweehou)"
+
+[markup.highlight]
+    codeFences =  true
